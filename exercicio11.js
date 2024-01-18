@@ -20,5 +20,5 @@ function maiorquea_Media(valor1, valor2, valor3){
 var v1 = 2;
 var v2 = 3;
 var v3 = 6;
-var resultado = maiorquea_Media(valor1, valor2, valor3);
+var resultado = maiorquea_Media(v1, v2, v3);
 console.log(resultado);
